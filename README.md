@@ -1,2 +1,2 @@
-# Aut-matas
+# Automatas
 Proyecto Final
